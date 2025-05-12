@@ -1,23 +1,22 @@
 const Skills = () => {
   const skills1 = [
     { name: 'CCNA R&S', level: '90%' },
-    { name: 'MCSA', level: '80%' },
     { name: 'MCSE', level: '75%' },
-    { name: 'Linux', level: '60%' },
     { name: 'VMware vSphere', level: '60%' },
-    { name: 'Sophos XG Firewall', level: '70%' },
-    { name: 'FortiGate Firewall', level: '60%' },
-    { name: 'Veeam Backup', level: '80%' },
-    { name: 'MS SQLServer', level: '75%' }
+    { name: 'Veeam Backup', level: '70%' },
+    { name: 'MySQL', level: '70%' },
+    { name: 'MS SQLServer', level: '70%' },
+    { name: 'Postgresql', level: '70%' },
+    { name: 'C#', level: '75%' }
   ];
 
   const skills2 = [
-    { name: 'C#', level: '75%' },
-    { name: 'LinQ', level: '75%' },
-    { name: 'Entity Framework', level: '75%' },
-    { name: 'ASP.NET', level: '75%' },
-    { name: 'Git & GitHub', level: '55%' },
-    { name: 'RestAPI', level: '70%' },
+    { name: 'MCSA', level: '85%' },
+    { name: 'Linux', level: '70%' },
+    { name: 'Sophos XG Firewall', level: '70%' },
+    { name: 'FortiGate Firewall', level: '60%' },
+    { name: 'Git & GitHub', level: '60%' },
+    { name: 'RestAPI', level: '60%' },
     { name: 'Python', level: '75%' },
     { name: 'PHP', level: '75%' }
   ];
