@@ -1,11 +1,6 @@
 import React from "react";
 
 const Hero = () => (
-  // <section className="text-center p-5 bg-dark text-white">
-  //   <h1>Mohamed Hassan</h1>
-  //   <h3>System Administration Engineer</h3>
-  //   <button className="btn btn-outline-light mt-3">Contact Me</button>
-  // </section>
   <section className="container p-5 bg-dark text-white">
     <div className="row align-items-center">
       <div className="col-md-6 text-md-start text-center mb-4 mb-md-0">
@@ -13,9 +8,6 @@ const Hero = () => (
           <strong>Mohamed Hassan</strong>
         </h1>
         <h4 className="mb-3">Systems Administration Engineer</h4>
-        {/* <a href="mailto:mohamed.elsawsany10@gmail.com" className="btn btn-outline-light">
-          Contact Me
-        </a> */}
         <button
           class="btn btn-outline-light dropdown-toggle"
           type="button"
@@ -44,7 +36,7 @@ const Hero = () => (
           </li>
         </ul>
         <a
-          href="/Mohamed-Hassan-Resume.pdf"
+          href="/Mohamed-Hassan-Systems_Administration_Engineer.pdf"
           style={{
             marginLeft: "5px",
           }}
